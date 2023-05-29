@@ -3,7 +3,7 @@ import Elon from "../assets/elon.png";
 
 const Hero = () => {
   return (
-    <section className="hero min-h-sreen w-full text-white py-[80px]">
+    <section className="hero w-full text-white bg-primary py-[100px]">
       <div className="container grid md:grid-cols-2 justify-between items-center">
         <div className="flex gap-2 flex-col">
           <div className="relative">
