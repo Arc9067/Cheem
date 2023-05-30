@@ -7,13 +7,13 @@ const Footer = () => {
   return (
     <div className="py-[20px] w-full text-white">
       <div className="container flex justify-center items-center gap-4">
-        <a href="">
+        <a href="https://t.me/Cheems_Erc">
           <FaTelegramPlane className="text-4xl text-primary hover:text-white" />
         </a>
-        <a href="">
+        <a href="https://mobile.twitter.com/Cheems_Erc">
           <TfiTwitterAlt className="text-4xl text-primary hover:text-white" />
         </a>
-        <a href="">
+        <a href="mailto:yugifouga@gmail.com">
           <GrMail className="text-4xl text-primary hover:text-white" />
         </a>
       </div>

@@ -22,7 +22,7 @@ const Hero = () => {
             contract: <span>000000000000000000000000</span>
           </h2>
           <a
-            href=""
+            href="https://t.me/Cheems_Erc"
             className="bg-primary w-max px-9 py-4 text-3xl text-black hover:bg-white hover:text-black capitalize"
           >
             telegram

@@ -9,13 +9,13 @@ const Header = () => {
         </a>
         <div className="flex gap-4 items-center">
           <a
-            href=""
+            href="https://t.me/Cheems_Erc"
             className="text-3xl bg-white px-5 hidden md:block py-1 capitalize hover:bg-primary"
           >
             telegram
           </a>
           <a
-            href=""
+            href="https://mobile.twitter.com/Cheems_Erc"
             className="text-3xl bg-white px-5 hidden md:block py-1 capitalize hover:bg-primary"
           >
             twitter
