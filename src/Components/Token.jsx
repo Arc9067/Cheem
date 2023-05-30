@@ -2,7 +2,7 @@ import React from "react";
 
 const Token = () => {
   return (
-    <section className="py-[50px] about w-full min-h-screen bg-primary">
+    <section className="py-[50px] about w-full bg-primary">
       <div className="container flex flex-col gap-4">
         <h1 className="capitalize text-6xl text-center backdrop-blur-2xl md:w-max mx-auto text-white">
           cheems The barking funny{" "}
